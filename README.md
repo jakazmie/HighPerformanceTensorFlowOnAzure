@@ -1,1 +1,2 @@
-# HighPerformanceTensorFlowOnAzure
+# High Performance TensorFlow On Azure
+
